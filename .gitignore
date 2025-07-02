@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore pre-trained model weights
+mask_rcnn_coco.h5
+
 # C extensions
 *.so
 
