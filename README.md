@@ -1,9 +1,7 @@
 # 🎨 Real-Time Person Segmentation & Style Transfer
 
 ## 👤 Author:
-**[Your Name]**  
-🗓️ *Date:* June 2025  
-🏫 *Institution:* [Your Institute]
+Shaurya Choudhary 
 
 ---
 
