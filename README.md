@@ -56,10 +56,10 @@ Toggle between:
 - `2`: Blurred background  
 
 ## 🎮 Keyboard Controls
-Key	Action
-n	Switch to next style (cycles through 7 styles)
-b	Switch to next background mode (original → black → blurred → original...)
-q	Quit the program
+Key Action:
+  - n	 Switch to next style (cycles through 7 styles)  
+  - b	Switch to next background mode (original → black → blurred → original...)
+  - q	Quit the program
 
 ```python
 if background_mode == 0:
