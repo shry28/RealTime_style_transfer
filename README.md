@@ -19,6 +19,13 @@ Build a real-time vision system that:
 - PixelLib (with TensorFlow backend)  
 - NumPy  
 - Pre-trained Mask R-CNN (`mask_rcnn_coco.h5`)
+   ### 🔗 Download Pre-trained Model
+
+Download the `mask_rcnn_coco.h5` file (245 MB) from the official release:
+
+👉 [mask_rcnn_coco.h5](https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_coco.h5)
+
+Place it in the same directory as `segmentation.py` before running the code.
 
 ---
 
