@@ -17,7 +17,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/RealTime_style_transfer">
-     <img width="500" alt="Real-Time Style Transfer Example" src="https://raw.githubusercontent.com/shry28/RealTime_style_transfer/main/result pics/Screenshot 2025-07-02 211726.png.jpg">
+     <img width="500" alt="Real-Time Style Transfer Example" src="https://raw.githubusercontent.com/shry28/RealTime_style_transfer/main/result pics/Screenshot 2025-07-02 211726.png">
   </a>
 
   <h3 align="center">RealTime_style_transfer</h3>
@@ -49,11 +49,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- UPDATE -->
-<div align="center">
-  <a href="https://github.com/cgs-iitkgp/RealTime_style_transfer">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
-  </a>
-</div>
 
 _Real-Time Style Transfer applies artistic effects to live video streams or webcam feeds using deep learning models.
 This implementation leverages fast style transfer networks to achieve results instantly, making it suitable for live demos, streaming, and creative applications._
@@ -67,14 +62,11 @@ To set up a local instance of the application, follow the steps below.
 ### Prerequisites
 The following dependencies are required to be installed for the project to function properly:
 <!-- UPDATE -->
-* npm
-  ```sh
-* Python 3.8+
-* PyTorch
-* OpenCV
-* torchvision
 
-  ```
+- Python 3.8+
+- PyTorch
+- OpenCV
+- torchvision
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,10 +83,7 @@ _Now that the environment has been set up and configured to properly compile and
    ```sh
    pip install -r requirements.txt
    ```
-3. Execute the script
-   ```sh
-   python realtime_style.py --model ./models/mosaic.pth
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,6 +92,11 @@ _Now that the environment has been set up and configured to properly compile and
 ## Usage
 <!-- UPDATE -->
 Once installed, you can run the script from the command line to apply style transfer in real time.
+
+- Execute the script
+   ```sh
+   python realtime_style.py --model ./models/mosaic.pth
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
